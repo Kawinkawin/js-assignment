@@ -1,0 +1,2 @@
+var result = sumNumbers(3, 5);
+console.log(result); // Output: 8
